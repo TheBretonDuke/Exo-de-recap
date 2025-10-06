@@ -157,7 +157,7 @@ mongosh --eval "db.runCommand('ping')"
 ```
 **Solutions** :
 - Vérifier que MongoDB tourne localement
-- Adapter l'URI pour Atlas : `mongodb+srv://user:pass@cluster.mongodb.net/`
+- Adapter l'URI pour Atlas : `mongodb+srv://<username>:<password>@<cluster>.mongodb.net/<database>`
 - Vérifier firewall et authentification
 
 #### 📦 **Packages manquants**
