@@ -1,0 +1,26 @@
+# Dépendances verrouillées pour les notebooks 1 à 6
+# Python 3.12
+
+# Data science
+pandas==2.3.3
+numpy==2.3.3
+matplotlib==3.10.6
+seaborn==0.13.2
+scikit-learn==1.7.2
+scipy==1.16.2
+plotly==6.3.1
+
+# Jupyter widgets
+ipywidgets==8.1.7
+
+# ETL / Fichiers / HTTP
+requests==2.32.5
+openpyxl==3.1.5
+xlsxwriter==3.2.9
+
+# Bases de données
+pymongo==4.15.2
+# sqlite3 est intégré à Python (pas de package à installer)
+
+# Docker SDK
+docker==7.1.0

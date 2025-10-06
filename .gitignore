@@ -1,0 +1,22 @@
+# Environnement virtuel local
+.venvexoultime/
+.venv
+.env
+
+# Caches Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Notebooks: checkpoints et autosaves
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Logs et artefacts divers
+*.log
+.DS_Store
+
+# Jupyter runtime/cache
+.jupyter/
+.local/
